@@ -15,13 +15,11 @@ function NavbarAuth() {
                         {/* Sign Up */}
                         <SignUpButton
                             mode='modal'
-                            signInForceRedirectUrl={/skillbridge-react/}
                             className='hover:text-primary-color transition'
                         />
                         {/* Sign In */}
                         <SignInButton
                             mode='modal'
-                            signInForceRedirectUrl={/skillbridge-react/}
                             className='bg-primary-color text-white rounded-md py-2 px-5 transition'
                         />
                     </>

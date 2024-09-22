@@ -21,7 +21,7 @@ import 'react-lazy-load-image-component/src/effects/blur.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ClerkProvider publishableKey={process.env.REACT_APP_CLERK_PUBLISHABLE_KEY} afterSignOutUrl="/skillbridge-react/">
+    <ClerkProvider publishableKey={process.env.REACT_APP_CLERK_PUBLISHABLE_KEY} signInForceRedirectUrl="/skillbridge-react/" signUpForceRedirectUrl="/skillbridge-react/" afterSignOutUrl="/skillbridge-react/">
       <Provider store={store}>
         <Router>
           <App />
