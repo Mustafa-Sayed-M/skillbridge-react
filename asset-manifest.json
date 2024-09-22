@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skillbridge-react/static/css/main.ed3107ce.css",
+    "main.js": "/skillbridge-react/static/js/main.5e7add53.js",
+    "static/js/453.2a82e7ac.chunk.js": "/skillbridge-react/static/js/453.2a82e7ac.chunk.js",
+    "static/media/fa-solid-900.ttf": "/skillbridge-react/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/skillbridge-react/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/skillbridge-react/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/skillbridge-react/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/skillbridge-react/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/skillbridge-react/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/skillbridge-react/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/skillbridge-react/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/skillbridge-react/index.html",
+    "main.ed3107ce.css.map": "/skillbridge-react/static/css/main.ed3107ce.css.map",
+    "main.5e7add53.js.map": "/skillbridge-react/static/js/main.5e7add53.js.map",
+    "453.2a82e7ac.chunk.js.map": "/skillbridge-react/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3107ce.css",
+    "static/js/main.5e7add53.js"
+  ]
+}
