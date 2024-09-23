@@ -4,10 +4,14 @@ import Testimonials from '../Components/Home_C/Testimonials/Testimonials'
 import OurPricing from '../Components/Shared_C/OurPricing/OurPricing'
 import Faqs from '../Components/Shared_C/Faqs/Faqs'
 import OurCourses from '../Components/Home_C/OurCourses/OurCourses'
+import Landing from '../Components/Home_C/Landing/Landing'
 
 function Home() {
     return (
         <div className='home-page'>
+            {/* Landing */}
+            <Landing />
+            {/* Container */}
             <div className='container py-10 space-y-10'>
                 {/* Benefits */}
                 <Benefits />
